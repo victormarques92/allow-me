@@ -81,9 +81,7 @@ Utilize esses scripts conforme necessário para desenvolver, construir, verifica
 
 ## Cobertura de Testes
 
-Este projeto não possui cobertura de testes implementada. A cobertura de testes é uma prática recomendada no desenvolvimento de software, pois ajuda a garantir a qualidade e a estabilidade da aplicação. A ausência de testes pode resultar em comportamentos indesejados ou dificuldades na manutenção do código.
-
-Recomendamos que você adicione testes adequados à aplicação para garantir seu bom funcionamento. Existem várias bibliotecas e ferramentas disponíveis para escrever e executar testes em aplicações React, como Jest e React Testing Library.
+Este projeto não possui cobertura de testes implementada.
 
 ---
 
