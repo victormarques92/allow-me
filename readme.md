@@ -1,6 +1,7 @@
 # Allow Me - Instruções de Utilização
 
 Este é um guia básico para utilizar a aplicação Allow Me, que é uma aplicação React. A seguir estão as instruções para configurar e executar a aplicação em seu ambiente local.
+A aplicação também pode ser vista [aqui](https://allow-me.vercel.app/).
 
 ## Pré-requisitos
 
